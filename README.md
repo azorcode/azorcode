@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Python and Rust laguages**
 
-- 👯 I’m looking to collaborate on **Bitcoin**
+- 👯 I’m looking to collaborate on **Bitcoin and LN project**
 
-- 🤝 I’m looking for help with **PR. Bitcoin Core and Lightning Network projectk**
+- 🤝 I’m looking for help with **PR - Bitcoin Core and Lightning Network LAPP**
 
 - 📝 I regularly write articles on [https://medium.com/@azocarcode](https://medium.com/@azocarcode)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **azorcode@tutanota.com**
 
-- 📄 Know about my experiences [https://azorcode.netlify.app/](https://azorcode.netlify.app/)
+- 📄 Know about my experiences **I have experience in full-stack web development and cybersecurity.**
 
 - ⚡ Fun fact **I spent 7 bitcoin in a cafe in 2012 :P**
 
