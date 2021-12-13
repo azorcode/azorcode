@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **PR. Bitcoin Core and Lightning Network projectk**
 
-- 👨‍💻 All of my projects are available at [https://azorcode.netlify.app/](https://azorcode.netlify.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@azocarcode](https://medium.com/@azocarcode)
 
 - 💬 Ask me about **Python, Bitcoin, LN.**
