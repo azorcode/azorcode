@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Backend with Python**
 
-- 🌱 I’m currently learning **Python and Rust laguages**
+- 🌱 I’m currently learning **Python and Rust languages**
 
 - 👯 I’m looking to collaborate on **Bitcoin and LN project**
 
