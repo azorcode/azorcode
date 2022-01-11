@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **PR - Bitcoin Core and Lightning Network LAPP**
 
-- 📝 I regularly write articles on [https://medium.com/@azocarcode](https://medium.com/@azorcode)
+- 📝 I regularly write articles on [https://medium.com/@azorcode](https://medium.com/@azorcode)
 
 - 💬 Ask me about **Python, Bitcoin, LN.**
 
